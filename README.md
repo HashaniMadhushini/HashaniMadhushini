@@ -14,7 +14,7 @@
 - 🌱 Currently learning Java, SQL, and Web Development
 - 🎯 Goal: Become a skilled IT Professional
 - 📍 Based in Sri Lanka
-- 📫 Email:Hashanimadhushini@gmail.com
+- 📫 Email:hashanimadhushini@gmail.com
 
 ---
 
