@@ -28,10 +28,22 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HashaniMadhushini&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashaniMadhushini&theme=tokyonight" />
+
+<!-- Main Stats -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=HashaniMadhushini&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+<!-- Streak Stats -->
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=HashaniMadhushini&theme=tokyonight&cache_seconds=1800" />
+
+<!-- Most Used Languages -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashaniMadhushini&layout=compact&theme=tokyonight" />
+
 </p>
+
+---
 
 ---
 
