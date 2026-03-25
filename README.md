@@ -28,8 +28,6 @@
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
 
 <!-- Main Stats -->
