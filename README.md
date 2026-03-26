@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://github.com/HashaniMadhushini/Clothing-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Clothing-Website&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Clothing-Website&theme=tokyonight&cache_seconds=0" />
 </a>
 
 <a href="https://github.com/HashaniMadhushini/portfolio-website">
