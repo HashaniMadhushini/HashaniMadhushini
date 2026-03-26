@@ -52,8 +52,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Clothing-Website&theme=tokyonight&cache_seconds=0" />
 </a>
 
-<a href="https://github.com/HashaniMadhushini/portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=portfolio-website&theme=tokyonight" />
+<a href="https://github.com/HashaniMadhushini/Group-63">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Group-63&theme=tokyonight&cache_seconds=0" />
 </a>
 
 </p>
