@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=student-management-system&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/HashaniMadhushini/library-system">
+<a href="https://github.com/HashaniMadhushini/Clothing-Website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=library-system&theme=tokyonight" />
 </a>
 
