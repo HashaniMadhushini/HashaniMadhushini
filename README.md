@@ -9,11 +9,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Undergraduate in Management Information Systems (MIS)  
-- 💡 Interested in Software Development & Database Systems  
-- 🌱 Currently learning Java, SQL, and Web Development  
-- 🎯 Goal: Become a skilled IT Professional  
-- 📍 Based in Sri Lanka  
+- 🎓 Undergraduate in Management Information Systems (MIS)
+- 💡 Interested in Software Development & Database Systems
+- 🌱 Currently learning Java, SQL, and Web Development
+- 🎯 Goal: Become a skilled IT Professional
+- 📍 Based in Sri Lanka
 - 📫 Email: hashanimadhushini@gmail.com
 
 ---
@@ -29,9 +29,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HashaniMadhushini&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=HashaniMadhushini&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashaniMadhushini&layout=compact&theme=tokyonight" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=HashaniMadhushini&show_icons=true&theme=tokyonight&cache_seconds=0" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=HashaniMadhushini&theme=tokyonight&cache_seconds=0" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashaniMadhushini&layout=compact&theme=tokyonight&cache_seconds=0" />
+
 </p>
 
 ---
@@ -44,12 +48,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=student-management-system&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Laseyaa/Clothing-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laseyaa&repo=Clothing-Website&theme=tokyonight" />
+<a href="https://github.com/HashaniMadhushini/Clothing-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Clothing-Website&theme=tokyonight&cache_seconds=0" />
 </a>
 
-<a href="https://github.com/Dacalk/Group-63">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dacalk&repo=Group-63&theme=tokyonight" />
+<a href="https://github.com/HashaniMadhushini/Group-63">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Group-63&theme=tokyonight&cache_seconds=0" />
 </a>
 
 </p>
