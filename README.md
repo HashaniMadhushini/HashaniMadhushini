@@ -9,82 +9,53 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Undergraduate in Management Information Systems (MIS)
-- 💡 Interested in Software Development & Database Systems
-- 🌱 Currently learning Java, SQL, and Web Development
-- 🎯 Goal: Become a skilled IT Professional
-- 📍 Based in Sri Lanka
-- 📫 Email: hashanimadhushini@gmail.com
+- 🎓 MIS Undergraduate  
+- 💡 Software Development & Databases  
+- 🌱 Learning Java, SQL, Web  
+- 🎯 Future IT Professional  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,c,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HashaniMadhushini&show_icons=true&theme=tokyonight&cache_seconds=0" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=HashaniMadhushini&show_icons=true&theme=tokyonight&count_private=true" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=HashaniMadhushini&theme=tokyonight&cache_seconds=0" />
+<img height="150" src="https://streak-stats.demolab.com?user=HashaniMadhushini&theme=tokyonight" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashaniMadhushini&layout=compact&theme=tokyonight&cache_seconds=0" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashaniMadhushini&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <p align="center">
 
 <a href="https://github.com/HashaniMadhushini/student-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=student-management-system&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=student-management-system&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/HashaniMadhushini/Clothing-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Clothing-Website&theme=tokyonight&cache_seconds=0" />
+<a href="https://github.com/Laseyaa/Clothing-Website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laseyaa&repo=Clothing-Website&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/HashaniMadhushini/Group-63">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Group-63&theme=tokyonight&cache_seconds=0" />
+<a href="https://github.com/Dacalk/Group-63">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dacalk&repo=Group-63&theme=tokyonight" />
 </a>
 
 </p>
 
 ---
 
-## 📚 What I'm Learning Now
-
-- Database Management Systems (SQL)  
-- Software Engineering Concepts  
-- Web Application Development  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hashani-madhushini-5072ab29b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/hash__ni_/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HashaniMadhushini&label=Profile%20views&color=00bfff&style=flat" />
-</p>
-
----
-
-<p align="center">
-  💫 "Keep learning, keep growing" 💫
-</p>
+<p align="center">💫 Keep learning, keep growing 💫</p>
