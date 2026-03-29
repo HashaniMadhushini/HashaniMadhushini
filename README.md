@@ -46,7 +46,7 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<p>
 
 <a href="https://github.com/HashaniMadhushini/student-management-system">
   <img src="https://img.shields.io/badge/Student%20Management%20System-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
