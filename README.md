@@ -43,7 +43,7 @@
 
 ## 🚀 Projects
 
-<p align="center">
+<p>
 
 <a href="https://github.com/HashaniMadhushini/student-management-system">
   <img src="https://img.shields.io/badge/Student%20Management%20System-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Group%2063%20Project-555555?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p  align="center/">
+</p>
 
 ---
 
