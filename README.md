@@ -21,7 +21,7 @@
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,c,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,c,cpp,git,github,vscode,figma" />
 </p>
 
 ---
@@ -29,12 +29,24 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HashaniMadhushini&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HashaniMadhushini&theme=tokyonight" />
+  <!-- GitHub Stats Card -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HashaniMadhushini&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
+  <!-- Streak Stats Card -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HashaniMadhushini&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashaniMadhushini&layout=compact&theme=tokyonight" />
+  <!-- Top Languages Card -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashaniMadhushini&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <!-- GitHub Achievements -->
+  <img src="https://github-profile-trophy.vercel.app/?username=HashaniMadhushini&theme=tokyonight&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -42,32 +54,16 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-
-<a href="https://github.com/HashaniMadhushini/Inventory-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Inventory-System&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/HashaniMadhushini/student-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=student-management-system&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/HashaniMadhushini/Clothing-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Clothing-Website&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/HashaniMadhushini/Group-63">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Group-63&theme=tokyonight" />
-</a>
-
+  <a href="https://github.com/HashaniMadhushini/Inventory-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Inventory-System&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/HashaniMadhushini/student-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=student-management-system&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/HashaniMadhushini/Clothing-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HashaniMadhushini&repo=Clothing-Website&theme=tokyonight" />
+  </a>
 </p>
-
----
-
-## 📚 What I'm Learning Now
-
-- Database Management Systems (SQL)  
-- Software Engineering Concepts  
-- Web Application Development  
 
 ---
 
@@ -80,7 +76,7 @@
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Views counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HashaniMadhushini&label=Profile%20views&color=00bfff&style=flat" />
