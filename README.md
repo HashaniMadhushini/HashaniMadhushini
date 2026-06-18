@@ -32,7 +32,7 @@
   <!-- GitHub Stats Card -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=HashaniMadhushini&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" /> 
   <!-- Streak Stats Card -->
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HashaniMadhushini&theme=tokyonight&hide_border=false" />
+ <!-- <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HashaniMadhushini&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
